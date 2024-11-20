@@ -33,7 +33,7 @@ My research interests include complex document analysis, particularly for histor
 <span class='anchor' id='Project'></span>
 # 📚 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://ruisju111.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Historical Palm Leaf Manuscript Analysis**](https://nimol89.github.io/PLA/)
@@ -41,20 +41,20 @@ My research interests include complex document analysis, particularly for histor
 The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
 
   **Link for Project Details and Papers**
-- [Overview of Project](https://nimol89.github.io/PLA/)
-- [Data Collection](https://nimol89.github.io/datacollection)
-- [Document Enhancement](https://nimol89.github.io/enhancement/)
-- [Isolated Glyph Classification](https://nimol89.github.io/classification/)
-- [Text Recognition and Multimodal Understanding](https://nimol89.github.io/sada/)
+- [Overview of Project](https://ruisju111.github.io/PLA/)
+- [Data Collection](https://ruisju111.github.io/data/)
+- [Document Enhancement](https://ruisju111.github.io/enhancement/)
+- [Isolated Glyph Classification](https://ruisju111.github.io/classification/)
+- [Text Recognition and Multimodal Understanding](https://ruisju111.github.io/sada/)
 </div>
 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Retrieval</div><img src='https://nimol89.github.io/kse/assets/fig6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Retrieval</div><img src='https://ruisju111.github.io/kse/assets/fig6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Khmer Document Retrieval**](https://nimol89.github.io/kse/)
+[**Khmer Document Retrieval**](https://ruisju111.github.io/kse/)
 
 For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines, and keyword extraction.
 
