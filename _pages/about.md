@@ -36,7 +36,7 @@ My research interests include complex document analysis, particularly for histor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://ruisju111.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Historical Palm Leaf Manuscript Analysis**](https://nimol89.github.io/PLA/)
+[**Historical Palm Leaf Manuscript Analysis**](https://ruisju111.github.io/PLA/)
 
 The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
 
