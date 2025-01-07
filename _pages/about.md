@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔬 Research Interests
-My research interests include Complex Image and Document Analysis, particularly for historical document image and text processing for low-resource languages. I have contributed to both industry-driven research projects and published papers in leading peer-reviewed conferences and journals in my fields of expertise.
+My research interests include Computer Vision, Pattern recongtion, Complex Document Image Analysis, particularly for historical document image and text processing for low-resource languages. I have contributed to both industry-driven research projects and published papers in leading peer-reviewed conferences and journals in my fields of expertise.
 # 💡 A Brief Reflection on My Research Journey
 **My name is Nimol from CAMBODIA**. 
 
