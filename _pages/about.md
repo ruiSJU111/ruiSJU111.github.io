@@ -90,7 +90,7 @@ In this project, I have conducted research and developed several complex systems
 - IEEE USTC Outstanding Young Researcher Award for contributions to complex document image analysis
 - CAS-TWAS: The most competitive fellowship in China. 
 - Erasmus and CAS Scholarship for PhD Scholarships
-- ARES Master Scholarship under Belgium Fund
+- ARES Master Training Scholarship under Belgium Fund
 - Research Project (Khmer Search Engine) Fund Under Belgium Fund
 - Excellence Award for Innovative Technology in Document Retrieval by the Ministry of Education of Cambodia.
 - Engineering and Master’s Degree Scholarship: ITC University Excellent Scholarship
